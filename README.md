@@ -9,15 +9,16 @@ Materials for Selected Online Courses
 
 ### Math
 * Algebra and Computation (MIT 6.S897) by Prof. Madhu Sudan (MIT, Harvard), [Course Link](http://people.csail.mit.edu/madhu/ST15/)
+* Discrete Stochastic Processes (MIT 6.262) by Prof. Robert Gallager (MIT), [Course Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/index.htm)
 
 ### System Theory
 * Nonlinear Systems (C21) by Prof. Mark Canoon (Oxford), [Course Link](http://www.eng.ox.ac.uk/~conmrc/nlc/index.html)
+* Linear Dynamical Systems (EE363) by Prof. Stephen Boyd (Stanford), [Course Link](http://stanford.edu/class/ee363/index.html)
 
 ### Control Theory
 * Linear Control (EE263) by Prof. Stephen Boyd (Stanford), (original slides) [no course link available](). But there is a related course by Prof. Sanjay Lall, [new courses](http://ee263.stanford.edu/lectures.html)
-* Linear Dynamical Systems (EE363) by Prof. Stephen Boyd (Stanford), [Course Link](http://stanford.edu/class/ee363/index.html)
 * Stochastic Control (EE365) by Prof. Stephen Boyd (Stanford), (original slides) [Course Link](http://stanford.edu/class/ee365/). There is also a related course by Prof. Sanjay Lall, [EE266](http://ee266.stanford.edul)
-[](http://stanford.edu/class/ee365/)
+[EE365](http://stanford.edu/class/ee365/)
 
 ### Statistics + Machine Learning
 * Introduction to Time Series by Prof. Peter Bartlett (Berkeley), [Course Link](http://www.stat.berkeley.edu/~bartlett/courses/153-fall2010/index.html)
