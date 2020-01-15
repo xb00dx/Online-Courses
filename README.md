@@ -19,16 +19,14 @@ Materials for Selected Online Courses
 * Linear Control (EE263) by Prof. Stephen Boyd (Stanford), (original slides) [no course link available](). But there is a related course by Prof. Sanjay Lall, [new courses](http://ee263.stanford.edu/lectures.html)
 * Stochastic Control (EE365) by Prof. Stephen Boyd (Stanford), (original slides) [Course Link](http://stanford.edu/class/ee365/). There is also a related course by Prof. Sanjay Lall, [EE266](http://ee266.stanford.edul)
 [EE365](http://stanford.edu/class/ee365/)
+* Dynamic Programming and Stochastic Control (MIT 6.231) by Prof. Dimitri Bertsekas, [course website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/index.htm), and 
+ [a 6-lecture short version at Tsinghua University, Beijing, China, June.2014, videos on youtube](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) and [a 4-lecture short version at University of Cyprus, videos on youtube](https://www.youtube.com/playlist?list=PLhJFJvQl2LfravyApezJ8eDvJfBe_FzLi). More useful materials available at [this page](http://www.mit.edu/~dimitrib/Dynamic_Prog_Videos.html).
 
 ### Statistics + Machine Learning
 * Introduction to Time Series by Prof. Peter Bartlett (Berkeley), [Course Link](http://www.stat.berkeley.edu/~bartlett/courses/153-fall2010/index.html)
-
 * Maching Learning by Prof. Andrew Ng (Stanford), [Couresa Course Link](https://www.coursera.org/learn/machine-learning)
-
 * Machine Learning (CS229) by Prof. Andrew Ng (Stanford), [Course Link](http://cs229.stanford.edu)
-
 * Intermediate Statistics by Prof. Larry Wasserman (CMU), [Course Link](http://www.stat.cmu.edu/~larry/=stat705/) ,[All Videos Here](https://www.youtube.com/channel/UCu8Pv6IJsbQdGzRlZ5OipUg)
-
 * Statistical Machine Learning by Prof. Larry Wasserman (CMU), [Course Link including videos](http://www.stat.cmu.edu/~larry/=sml/).
 
 ### Power System
